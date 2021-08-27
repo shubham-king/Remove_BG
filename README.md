@@ -19,7 +19,7 @@ License -> https://github.com/shrvan42/Remove-BG-Bot/blob/main/LICENSE
   <summary><b>Deploy on Heroku</b></summary>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/shrvan42/Remove-BG-Bot">
+  <a href="https://heroku.com/deploy?template=https://github.com/shubham-king/Remove_BG">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
